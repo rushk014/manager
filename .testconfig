@@ -1,0 +1,9 @@
+# Test Configuration File
+# This is dummy data for testing purposes
+
+environment=development
+debug=true
+api_endpoint=https://api.example.com
+timeout=30
+max_retries=3
+log_level=INFO
